@@ -1,0 +1,23 @@
+landing page	    
+TITLE	            CONTENT         TYPE	BEHAVIOR ON HOVER	            BEHAVIOR ON CLICK
+navigation	      HOME	          link	text turns red, hand	        red bar to the right
+	                ABOUT US	      link	text turns red, hand	        red bar to the right
+	                SERVICES	      link	text turns red, hand	        red bar to the right
+	                PORTFOLIO	      link	text turns red, hand	        red bar to the right
+	                BLOG	          link	text turns red, hand	        red bar to the right
+	                CONTACT	        link	text turns red, hand	        red bar to the right
+	                EXTRA	          link	text turns red, hand	        red plus to the right
+	                3 bars	        link	red square box grows, hand	  opens second navigation
+				
+footer	          F,T,L,P	    social links		
+	                C 2015 COPYRIGHT EUFORIA	      text	EUFORIA links to home page	
+				
+left corner	      STUDIO EUFORIA	logo		
+				
+landing page	    HI, I'M JOHN DOE 	red name		
+	                PROFESSIONAL PROGRAMMER	bold profession, cycles through		
+	                PROFESSIONAL  WEB DESIGNER			
+	                PROFESSIONAL DEVELOPER			
+                  
+                 
+ 
