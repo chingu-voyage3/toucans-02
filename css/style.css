@@ -21,7 +21,7 @@ body {
     border: 1px solid #f7f8fa;
     width: 270px;
     height: 100vh;
-    background-color: #d3d3d3;
+    background-color: #000000;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -31,7 +31,7 @@ body {
 .navigation-button {
     margin: 0;
     padding: 10px 15px;
-    color: #444;
+    color: rgb(255, 255, 255);
     border: 0;
     outline: none;
     transition: color 0.3s ease-out;
@@ -241,8 +241,8 @@ body {
 .sidenav a {
     padding: 6px 8px 6px 20px;
     text-decoration: none;
-    font-size: 25px;
-    color: #000000;
+    font-size: 15px;
+    color: #ffffff;
     /* Black */
     display: block;
 }
@@ -255,7 +255,7 @@ body {
 /* Mouse over the navigation links, change their color */
 
 .sidenav a:hover {
-    color: #7c0202;
+    color: #ff1919;
     /* Red */
 }
 
