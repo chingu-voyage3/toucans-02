@@ -1,0 +1,37 @@
+.sidenav {
+    height: 100%; /* Full-height: remove if you want "auto" */
+    width: 270px; /* Width of the sidebar */
+    position: fixed; /* Fixed Sidebar */
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255); /* White */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 225px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 6px 8px 6px 150px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000; /* Black */
+    display: block;
+}
+
+/* Mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #7c0202; /* Red */
+}
+
+/* Style page content */
+.main {
+    margin-left: 160px; /* Same as the width of the sidebar */
+    padding: 0px 10px;
+}
+
+/* Phones and Tablets , where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
